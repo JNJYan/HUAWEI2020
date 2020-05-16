@@ -3,11 +3,11 @@
  * @LastEditors: JNJYan
  * @Email: jjy20140825@gmail.com
  * @Date: 2020-04-27 16:01:49
- * @LastEditTime: 2020-05-16 20:31:14
+ * @LastEditTime: 2020-05-16 20:42:12
  * @Description: Modify here please
  * @FilePath: \HUAWEI2020\README.md
 --> 
-# 2020 code craft
+# 2020 Code Craft
 ## 热身赛
 
 - `warmup.cpp` (0.4936)
@@ -30,7 +30,7 @@
 
 - `05165.cpp`
 
-    **不改了，累了**
+    **不整理了，累了**
 
 ## 总结
 
@@ -41,3 +41,5 @@
 3. mmap的优势在于多线程读写文件，生成环时统计字节数，以计算多线程写文件的偏移量。
 
 4. double精度导致翻车，int64不香嘛。
+
+5. 以上所述，代码里都没有。
